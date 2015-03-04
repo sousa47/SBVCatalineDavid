@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.vigion.suportebasicodevida06" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".InicioSBV"
+            android:label="@string/title_activity_inicio_sbv" >
+        </activity>
+        <activity
+            android:name=".SBVfase1"
+            android:label="@string/title_activity_sbvfase1" >
+        </activity>
+        <activity
+            android:name=".sbvfase2"
+            android:label="@string/title_activity_sbvfase2" >
+        </activity>
+        <activity
+            android:name=".sbvfase3"
+            android:label="@string/title_activity_sbvfase3" >
+        </activity>
+        <activity
+            android:name=".sbvfase4"
+            android:label="@string/title_activity_sbvfase4" >
+        </activity>
+        <activity
+            android:name=".sbvfase5"
+            android:label="@string/title_activity_sbvfase5" >
+        </activity>
+        <activity
+            android:name=".sbvfase1_1"
+            android:label="@string/title_activity_sbvfase1_1" >
+        </activity>
+        <activity
+            android:name=".sbvfase3_1"
+            android:label="@string/title_activity_sbvfase3_1" >
+        </activity>
+        <activity
+            android:name=".sbvfase4_1"
+            android:label="@string/title_activity_sbvfase4_1" >
+        </activity>
+        <activity
+            android:name=".Info"
+            android:label="@string/title_activity_info" >
+        </activity>
+        <activity
+            android:name=".Aviso"
+            android:label="@string/title_activity_aviso" >
+        </activity>
+    </application>
+    <uses-permission android:name="android.permission.CALL_PHONE"></uses-permission>
+</manifest>

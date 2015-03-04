@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Suporte Básico De Vida</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_inicio_sbv">InicioSBV</string>
+    <string name="title_activity_sbvfase1">SBVfase1</string>
+    <string name="title_activity_sbvfase2">sbvfase2</string>
+    <string name="title_activity_sbvfase3">sbvfase3</string>
+    <string name="title_activity_sbvfase4">sbvfase4</string>
+    <string name="title_activity_sbvfase5">sbvfase5</string>
+    <string name="title_activity_sbvfase1_1">sbvfase1_1</string>
+    <string name="title_activity_sbvfase3_1">sbvfase3_1</string>
+    <string name="title_activity_sbvfase4_1">sbvfase4_1</string>
+    <string name="title_activity_info">Info</string>
+    <string name="title_activity_aviso">Aviso</string>
+
+</resources>
